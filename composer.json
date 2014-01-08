@@ -3,7 +3,7 @@
 	"description": "Notification sender for yii2",
 	"keywords": ["yii", "notification"],
 	"type": "yii2-extension",
-	"license": "New BSD License
+	"license": "New BSD License"
 	"support": {
 		"source": "https://github.com/ZhandosKz/notification"
 	},
