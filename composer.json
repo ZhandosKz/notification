@@ -1,0 +1,22 @@
+{
+	"name": "trytopic/yii2-notification",
+	"description": "Notification sender for yii2",
+	"keywords": ["yii", "notification"],
+	"type": "yii2-extension",
+	"license": "New BSD License
+	"support": {
+		"source": "https://github.com/ZhandosKz/notification"
+	},
+	"authors": [
+		{
+			"name": "Zhandos Nuftiev",
+			"email": "zhandos.90@gmail.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*",
+	},
+	"autoload": {
+		"psr-0": { "trytopic\\notification\\": "" }
+	}
+}
